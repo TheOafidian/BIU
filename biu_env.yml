@@ -1,5 +1,9 @@
 name: biu
+channels:
+ - hcc
+ - bioconda
 dependencies:
+  - python=3.9
   - fastcluster
   - intervaltree
   - matplotlib
